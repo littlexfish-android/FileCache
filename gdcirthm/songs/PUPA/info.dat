@@ -1,0 +1,31 @@
+{
+	"music": "res://data/songs/PUPA/PUPA.mp3",
+	"background": "res://data/songs/PUPA/PUPA.png",
+	"artist": "モリモリあつし",
+	"difficulty": {
+		"easy": {
+			"level": 2,
+			"mtl": 2.5,
+			"add_time": 20220120,
+			"add_version": 0
+		},
+		"normal": {
+			"level": 5,
+			"mtl": 5.5,
+			"add_time": 20220120,
+			"add_version": 0
+		},
+		"hard": {
+			"level": 10,
+			"mtl": 10.3,
+			"add_time": 20220120,
+			"add_version": 0
+		},
+		"extreme": {
+			"level": 15,
+			"mtl": 15.2,
+			"add_time": 20220120,
+			"add_version": 0
+		}
+	}
+}
