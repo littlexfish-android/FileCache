@@ -1,0 +1,25 @@
+{
+	"version": 0,
+	"pack": [
+		{
+			"id": "general",
+			"locale": {
+				"en_US": "General Pack",
+				"zh_TW": "一般包"
+			}
+		}
+	],
+	"song": [
+		{
+			"id": "pupa",
+			"pack": "general",
+			"preview": 0,
+			"bpm": "101",
+			"artist": "モリモリあつし",
+			"locale": {
+				"un_US": "PUPA",
+				"zh_TW": "PUPA"
+			}
+		}
+	]
+}
