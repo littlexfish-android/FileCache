@@ -1,0 +1,44 @@
+{
+	"music_start": 0,
+	"music_end": 126000,
+	"start_bpm": 101,
+	"data": [
+		{
+			"time": 1000,
+			"type": "tap",
+			"position": [-500, -100]
+		},
+		{
+			"time": 2000,
+			"type": "hold",
+			"length": 2000,
+			"position": [0, 0]
+		},
+		{
+			"time": 4500,
+			"type": "knock",
+			"id": 0,
+			"position": [500, -200]
+		},
+		{
+			"time": 5000,
+			"type": "knock",
+			"position": [500, 200],
+			"parent": 0,
+			"id": 1
+		},
+		{
+			"time": 5000,
+			"type": "knock",
+			"position": [0, 200],
+			"parent": 0,
+			"id": 2
+		},
+		{
+			"time": 1500,
+			"type": "slide",
+			"position": [-500, 500],
+			"angle": 50.5,
+		}
+	]
+}
