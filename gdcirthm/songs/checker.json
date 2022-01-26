@@ -1,1 +1,7 @@
-
+{
+	"songs": ["PUPA"],
+	"sha256": {
+		"songList.dat": "b01fc0dece5d0817b2875e85be58e75124027173e5c94be7ad9a07b8a8e42cd8",
+		"PUPA": "ab65156c42b90941fda0727589d9bce76e3c2703e9a22eb04bcf09764b7fb3b2"
+	}
+}
