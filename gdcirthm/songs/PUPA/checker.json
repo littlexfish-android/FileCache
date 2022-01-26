@@ -1,0 +1,10 @@
+{
+  "files": ["easy.dat","info.dat","normal.dat","PUPA.mp3","PUPA.png"],
+  "sha256": {
+    "easy.dat": "2764073763835857c3a9bc83e4772ba63f99f5ffbfedf8d2b43a41c72ce55fad",
+    "info.dat": "bdcf087493a4a9ed2fd90f9f42c36e5760e84f2daf75ff7677195e8e3c25e6a6",
+    "normal.dat": "6b80f0fe0aa51b0f8138b54c2fd6319dc7d5b3555edf230095d28100dbcc93b0",
+    "PUPA.mp3": "cc744d396e6e5c4517427f627e8d2d985d68ac0f35c9a610550eb408c9081514",
+    "PUPA.png": "b2007fae05fc9ee378425b45e7cdf8492d7584c135a17a5ee1fd835ce87acf1b"
+  }
+}
