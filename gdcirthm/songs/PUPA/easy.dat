@@ -11,7 +11,7 @@
 		{
 			"time": 2000,
 			"type": "hold",
-			"length": 2000,
+			"length": 3000,
 			"position": [0, 0]
 		},
 		{
@@ -39,6 +39,12 @@
 			"type": "slide",
 			"position": [-500, 500],
 			"angle": 50.5,
+		},
+		{
+			"time": 6000,
+			"type": "wipe",
+			"position": [0, 500],
+			"angle": 180.3,
 		}
 	]
 }
